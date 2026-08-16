@@ -17,8 +17,8 @@ decisions. It applies to all repositories in the organization.
 
 - **Contributors** — anyone who participates: issues, pull requests,
   reviews, discussions. No membership is required.
-- **Maintainers** — contributors with merge rights, listed in the
-  `MAINTAINERS.md` file of each repository. Maintainers review and
+- **Maintainers** — contributors with merge rights, listed in
+  [MAINTAINERS.md](MAINTAINERS.md). Maintainers review and
   merge changes and are responsible for the health of their
   repository.
 

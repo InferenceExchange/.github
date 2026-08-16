@@ -8,6 +8,7 @@ This repository holds:
 - [profile/README.md](profile/README.md) — the organization profile
   shown at [github.com/InferenceExchange](https://github.com/InferenceExchange)
 - [GOVERNANCE.md](GOVERNANCE.md) — how decisions are made
+- [MAINTAINERS.md](MAINTAINERS.md) — who maintains the organization
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — community standards
   (Contributor Covenant 3.0)
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to contribute
